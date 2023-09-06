@@ -1,5 +1,6 @@
 ---
 title: "Règles"
+order: 2
 ---
 ### _Par les détenteurs des secrets !_
 
