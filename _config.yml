@@ -1,0 +1,6 @@
+remote_theme: scribouilli/mimoza
+collections:
+  projects:
+    output: true
+plugins:
+  - jekyll-feed
