@@ -9,7 +9,7 @@ font-family: Fira Code,Monaco,Consolas,Ubuntu Mono,monospace;
 }
 
 a {
-color: #2a6442;
+color: #5b8a51;
 }
 
 h1 {
@@ -42,8 +42,4 @@ footer, .skip-links{
 nav ul::before {
   content: "🌿";
   width: 25px;
-}
-
-#inktree {
-background-color: blue ;
 }
