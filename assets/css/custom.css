@@ -1,3 +1,49 @@
 :root {
-    --couleur-primaire : #2a6442;
+    --couleur-primaire : #53606C;
+}
+
+body {
+color: #fff;
+background-color:#1f222a;
+font-family: Fira Code,Monaco,Consolas,Ubuntu Mono,monospace;
+}
+
+a {
+color: #e2af78;
+}
+
+h1 {
+color: #d87c4bff;
+}
+
+h2 {
+color: #d87c4bff;
+font-family: Fira Code,Monaco,Consolas,Ubuntu Mono,monospace;
+}
+
+h3 {
+color: #e2af78;
+font-family: Fira Code,Monaco,Consolas,Ubuntu Mono,monospace;
+}
+
+table, td, th {
+  border: 1px solid #e2af78;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+footer, .skip-links{
+    display: none;
+}
+
+nav ul::before {
+  content: "🌿";
+  width: 25px;
+}
+
+#inktree {
+background-color: blue ;
 }
