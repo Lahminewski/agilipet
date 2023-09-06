@@ -58,4 +58,4 @@ Tout manque de respect envers les adversaires, les règles ancestrales ou envers
 ![L'agilipet ancestrale](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Rosa_camuna_e_antropomorfi_R24_-_Foppe_-_Nadro.jpg/334px-Rosa_camuna_e_antropomorfi_R24_-_Foppe_-_Nadro.jpg)
 
 ## Ressources
-[Vous pouvez contribuer à la rédaction des règles de l'agilipet sur github](https://github.com/Lahminewski/note/edit/main/agilipet.md) 
+[Vous pouvez contribuer à la rédaction des règles de l'agilipet sur github](https://github.com/Lahminewski/agilipet/) 
