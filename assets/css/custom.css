@@ -17,17 +17,17 @@ color: #2a6442;
 }
 
 h2 {
-color: #d87c4bff;
+color: #2a6442;
 font-family: Fira Code,Monaco,Consolas,Ubuntu Mono,monospace;
 }
 
 h3 {
-color: #e2af78;
+color: #5b8a51;
 font-family: Fira Code,Monaco,Consolas,Ubuntu Mono,monospace;
 }
 
 table, td, th {
-  border: 1px solid #2a6442;
+  border: 1px solid #5b8a51;
 }
 
 table {
