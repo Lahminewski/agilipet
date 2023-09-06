@@ -9,11 +9,11 @@ font-family: Fira Code,Monaco,Consolas,Ubuntu Mono,monospace;
 }
 
 a {
-color: #e2af78;
+color: #2a6442;
 }
 
 h1 {
-color: #d87c4bff;
+color: #2a6442;
 }
 
 h2 {
@@ -27,7 +27,7 @@ font-family: Fira Code,Monaco,Consolas,Ubuntu Mono,monospace;
 }
 
 table, td, th {
-  border: 1px solid #e2af78;
+  border: 1px solid #2a6442;
 }
 
 table {
