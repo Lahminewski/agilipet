@@ -4,3 +4,4 @@ collections:
     output: true
 plugins:
   - jekyll-feed
+baseurl: /agilipet
