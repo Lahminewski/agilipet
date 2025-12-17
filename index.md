@@ -1,6 +1,7 @@
 ---
 title: "Accueil"
-order: 1
+order: 2
+in_menu: true
 ---
 Bienvenue sur le site officiel de la fédération international d'Agilipet. 
 

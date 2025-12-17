@@ -1,6 +1,7 @@
 ---
 title: "Règles"
 order: 2
+in_menu: true
 ---
 ### _Par les détenteurs des secrets !_
 
